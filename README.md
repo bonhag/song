@@ -8,4 +8,4 @@ To build:
 
 This should produce a couple of .apk files.  Install the debug one:
 
-    adb install build/apk/Song-debug-unaligned.apk
+    adb install build/apk/sing-debug-unaligned.apk
